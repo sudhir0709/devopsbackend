@@ -1,0 +1,10 @@
+variable "my-access-key" {}
+variable "my-secret-key" {}
+variable "vpc_name" {}
+variable "subnet_name" {}
+variable "cidr_blockmain" {}
+variable "cidr_blocksubnet" {}
+variable "cidr_blocksubnet2" {}
+variable "subnet_name2" {}
+variable "gw_name" {}
+variable "tr_name" {}
